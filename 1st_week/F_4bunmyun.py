@@ -8,3 +8,4 @@ if x!=0 and y!=0:
         print("2")
     else:
         print("3")
+        
