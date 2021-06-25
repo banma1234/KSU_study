@@ -9,3 +9,4 @@ for i in arr[0:]:
 for num in arr[0:]:
     if num not in temp:
         print(num)
+        
