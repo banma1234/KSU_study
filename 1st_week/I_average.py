@@ -7,3 +7,4 @@ for i in range(case):
         if j > avg:
             count+=1
     print("%.3f%%"%((count/arr[0])*100))
+    
