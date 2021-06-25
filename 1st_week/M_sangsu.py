@@ -8,3 +8,4 @@ def sangsu(a, b):
 
 a, b = input().split(' ')
 print(sangsu(a, b))
+
